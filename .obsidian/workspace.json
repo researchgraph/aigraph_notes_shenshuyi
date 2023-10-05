@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc2db7c4f302fc76",
+        "id": "0f4cab0cd36e9900",
         "type": "tabs",
         "children": [
           {
-            "id": "c02cd3faed51ba95",
+            "id": "526ed30b8973b2b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles of comparison/A comprehensive survey of clustering algorithms - State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects.md",
+                "file": "daily articles/Density-Based Clustering -  DBSCAN vs. HDBSCAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles of comparison/A comprehensive survey of clustering algorithms - State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects.md",
+                "file": "daily articles/Density-Based Clustering -  DBSCAN vs. HDBSCAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles of comparison/A comprehensive survey of clustering algorithms - State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects.md",
+                "file": "daily articles/Density-Based Clustering -  DBSCAN vs. HDBSCAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles of comparison/A comprehensive survey of clustering algorithms - State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects.md"
+                "file": "daily articles/Density-Based Clustering -  DBSCAN vs. HDBSCAN.md"
+              }
+            }
+          },
+          {
+            "id": "4d241d35ebcbba6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,19 +156,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c02cd3faed51ba95",
+  "active": "526ed30b8973b2b1",
   "lastOpenFiles": [
-    "articles of comparison/A Survey on Clustering Techniques for Big   Data Mining.md",
-    "articles of comparison/Clustering Rules - A Comparison of Partitioning and Hierarchical Clustering Algorithms.md",
-    "articles of comparison/Text Clustering Algorithms - A Review.md",
-    "articles of comparison/The Best Clustering Algorithms in Data Mining.md",
     "articles of comparison/A Comprehensive Survey of Clustering Algorithms.md",
+    "daily articles/Unsupervised Consensus Clustering.md",
+    "daily articles/7 Awesome and Free AI Tools You Should Know.md",
+    "articles of comparison/Clustering Rules - A Comparison of Partitioning and Hierarchical Clustering Algorithms.md",
+    "articles of comparison/A Survey on Clustering Techniques for Big Data Mining.md",
+    "articles of comparison/The Best Clustering Algorithms in Data Mining.md",
+    "articles of comparison/Text Clustering Algorithms - A Review.md",
     "articles of comparison/A comprehensive survey of clustering algorithms - State-of-the-art machine learning applications, taxonomy, challenges, and future research prospects.md",
+    "daily articles/CLUSTERLLM - Large Language Models as a Guide for Text Clustering.md",
+    "daily articles/BERTopic - Neural topic modeling with a class-based TF-IDF procedure.md",
+    "daily articles/4 Types of Classification Tasks in Machine Learning.md",
     "daily articles/A Survey of Text Similarity Approaches.md",
     "images/a24765bb1854c30424c75baa26ddef3.png",
     "daily articles/AI’s invisible hand on daily life.md",
     "daily articles/A heuristic approach to determine an appropriate number of topics in topic modeling.md",
-    "daily articles/4 Types of Classification Tasks in Machine Learning.md",
     "images/e2c5d96f3dc03379d612ecf6228d108.png",
     "images/e09644950bb15ead6e8b9c93ba475e0.png",
     "images/70172c3004be6012f346a19a7bb6d05.png",
@@ -180,9 +194,6 @@
     "daily articles/Probabilistic Topic Models.md",
     "images/11042_2022_13428_Fig3_HTML.webp",
     "daily articles/Natural language processing - state of the art, current trends and challenges.md",
-    "daily articles/How to Fine-Tune BERT for Text Classification.md",
-    "daily articles/Unnatural Instructions - Tuning Language Models with (Almost) No Human Labor.md",
-    "daily articles/What is a large language model (LLM).md",
     "images",
     "daily articles",
     "articles of comparison",

@@ -17,7 +17,7 @@
 	- The best number of clusters suggested by k-medoids based on average silhouette width does not result in a simplified view of the data. 
 	- According to the sum of distances of rules to the closest medoids, PAM outperforms k-medoids except some few cases, if PAM is given enough time. The larger 'maxneighbour', the better CLARANS performs. In addition, CLARANS(100) works worst among all partition-based clustering algorithms. CLARANS(1000) and CLARANS(10000) easily outperform k-medoids, only outperforms PAM at some few numbers of clusters.
 	- PAM takes a long while to reach reasonable solutions, while CLARANS is faster than PAM to find a not bad solution but it is more likely to be a 'local optimum'. The two variants of CLARANS have overwhelming advantage, combining speed and quality.
-	- AGNES has the higest average silhouette width.
+	- AGNES has the highest average silhouette width.
     
 4. Deficiencies of the paper:
 	- Not much comparison about clustering algorithm between partitioning-based and hierarchical.

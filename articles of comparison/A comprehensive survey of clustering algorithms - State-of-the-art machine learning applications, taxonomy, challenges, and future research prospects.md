@@ -25,7 +25,7 @@
 		- Streaming clustering
 		- Mode Seeking clustering
 		- Multiview clustering
-		- Deep learning clustering
+		- Deep learning clusteringz
 	- Mixture Resolving Algorithms
 		- Expectation maximization
 	- Fuzzy clustering
