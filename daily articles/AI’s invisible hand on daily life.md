@@ -21,3 +21,5 @@ Innumerable usages of Artificial Intelligence in everyday life:
 - Smart Home
 - Recipes and cooking
 - Medical applications
+
+Discover more AI tools [[7 Awesome and Free AI Tools You Should Know|here]].

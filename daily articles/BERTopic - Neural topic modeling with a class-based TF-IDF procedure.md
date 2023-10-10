@@ -5,7 +5,7 @@
 Structure:
 1. Convert documents into embeddings. (SentenceTransformer)
 2. Reduce embedding dimensionality. (UMP)
-3. Clustering (HDBSCAN)
+3. Clustering ([[Density-Based Clustering -  DBSCAN vs. HDBSCAN|HDBSCAN]])
 4. Topic representation (c-TF-IDF)
 
 Evaluation:

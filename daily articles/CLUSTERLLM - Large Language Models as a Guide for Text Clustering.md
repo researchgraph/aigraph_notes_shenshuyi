@@ -4,7 +4,7 @@
 
 How does CLUSTERLLM differ from traditional unsupervised text clustering methods?
 
-- It leverages feedback from an instruction-tuned large language model, such as ChatGPT, to improve clustering quality. 
+- It leverages feedback from an instruction-tuned [[What is a large language model (LLM)|large language model]], such as ChatGPT, to improve clustering quality. 
 - It understands the user's preference on clustering through textual instruction and/or a few annotated data. In contrast, traditional unsupervised methods typically rely on "small" embedders and do not incorporate user feedback or annotated data.
 
 The role of ChatGPT in CLUSTERLLM

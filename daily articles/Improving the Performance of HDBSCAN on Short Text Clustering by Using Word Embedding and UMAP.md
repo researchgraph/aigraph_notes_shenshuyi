@@ -2,7 +2,7 @@
 
 #HDBSCAN #Short-Text #improvement 
 
-Problem: HDBSCAN is bad at clustering high-dimensional data.
+Problem: [[Density-Based Clustering -  DBSCAN vs. HDBSCAN|HDBSCAN]] is bad at clustering high-dimensional data.
 Solution: Use dimensionality reduction algorithm, specifically UMAP.
 Reason: UMAP has the ability to preserve density information better than other similar algorithms.
 

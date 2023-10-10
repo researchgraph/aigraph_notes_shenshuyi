@@ -2,7 +2,7 @@
 
 #LLM #LlaMA
 
-LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.
+LLaMA, a collection of foundation [[What is a large language model (LLM)|large language models]] ranging from 7B to 65B parameters.
 
 Comparisons in following tasks:
 - Common Sense Reasoning

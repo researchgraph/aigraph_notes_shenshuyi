@@ -7,7 +7,7 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 - Noise - low density areas.
 
 HDBSCAN
-- Hierarchical
+- [[Understanding the concept of Hierarchical clustering Technique|Hierarchical]]
 - A modified representation of distance between points
 
 Comparison
